@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.58.1](https://github.com/mdn/yari/compare/v2.58.0...v2.58.1) (2024-06-26)
+
+
+### Miscellaneous
+
+* **deps-dev:** bump @playwright/test from 1.44.1 to 1.45.0 ([#11362](https://github.com/mdn/yari/issues/11362)) ([49f9d73](https://github.com/mdn/yari/commit/49f9d73b4c7466f7bdfbfbea603cdf3a71820f16))
+
 ## [2.58.0](https://github.com/mdn/yari/compare/v2.57.0...v2.58.0) (2024-06-26)
 
 
